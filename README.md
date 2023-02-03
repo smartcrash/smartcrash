@@ -1,14 +1,6 @@
 # Hello! I'm Diego
 
-> I'm a self-taught passionate FullStack developer from Venezuela 🇻🇪
-
-
-### About me
-
-- 🌱 I’m currently learning [GraphQl](https://graphql.org/)
-- ⛰️ 2022 Goals: Land my dream job as a FullStack Developer
-- ⚡ Fun fact: I love to draw play video games
-
+I'm a self-taught passionate FullStack developer from Venezuela 🇻🇪
 
 <br/>
 
